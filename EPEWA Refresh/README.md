@@ -13,7 +13,7 @@ For a general description of the original findings, see the [Substack post](http
 | File | Purpose |
 |---|---|
 | `EPEWA_refresh.ipynb` | The full analysis, from data download to results, refreshed through September 2026. Start here. |
-| `archive/EPEWA 7.5.24.ipynb` | The original July 2024 notebook (master's capstone version), kept unchanged for reference. It uses hardcoded local file paths and is not meant to be run as is. |
+| `../archive/EPEWA 7.5.24.ipynb` | The original July 2024 notebook (master's capstone version), kept unchanged for reference. It uses hardcoded local file paths and is not meant to be run as is. |
 | `README.md` | This file. |
 | `requirements.txt` | Python packages and the versions the notebook was last run with. |
 | `charts/` | The eight charts from the current refresh, as standalone HTML files (open in a browser; GitHub does not display them inside the notebook). |
