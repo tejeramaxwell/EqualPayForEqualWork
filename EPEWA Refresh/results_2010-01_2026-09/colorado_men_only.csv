@@ -1,0 +1,4 @@
+,coef,std_err,p_value
+C(epewa)[T.1],0.234,0.0016,0.0
+C(co)[T.True],0.0395,0.0064,0.0
+C(epewa)[T.1]:C(co)[T.True],0.0254,0.0131,0.053
