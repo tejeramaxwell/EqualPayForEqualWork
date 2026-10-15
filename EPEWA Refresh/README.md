@@ -1,4 +1,4 @@
-# EPEWA: Colorado Equal Pay for Equal Work Act and the gender wage gap
+# EPEWA: Colorado Equal Pay for Equal Work Act and the Gender Wage Gap
 
 Difference-in-differences analysis of whether Colorado's Equal Pay for Equal Work Act (EPEWA, in effect January 2021) reduced the gender wage gap, using monthly Current Population Survey (CPS) microdata from IPUMS CPS.
 
