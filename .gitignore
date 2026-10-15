@@ -1,0 +1,18 @@
+# Raw and cached data (large, and IPUMS data may not be redistributed)
+data/
+*.dat
+*.dat.gz
+*.csv.gz
+cps_*.xml
+*.pkl
+
+# Secrets and local configuration
+.env
+*key*.txt
+secrets/
+
+# Python and Jupyter noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
