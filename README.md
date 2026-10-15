@@ -1,4 +1,4 @@
-# Colorado Equal Pay for Equal Work Act and the gender wage gap
+# Colorado Equal Pay for Equal Work Act and the Gender Wage Gap
 
 By: Maxwell Tejera
 Original analysis: April 2024 (master's capstone, University of Colorado Denver)
