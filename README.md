@@ -17,4 +17,6 @@ For a general description of the original findings, see the [Substack post](http
 
 ## Headline result of the refresh
 
-Colorado has reduced the gender wage gap faster than any other state since the law took effect. Women's earnings as a percentage of men's rose by 9.0 percentage points in Colorado (8.3 with industry controls), compared with 6.2 in Washington, 2.7 in California and 1.8 in the rest of the country. Some inputs are provisional; the refresh README lists them.
+Colorado has reduced the gender wage gap faster than any other state since the law took effect. Women's earnings as a share of men's rose by 7.5 cents on the dollar in Colorado (7.3 with industry controls), compared with 4.6 in Washington, 2.1 in California and 1.5 in the rest of the country. California and Washington are measured from January 2023, when their own laws took effect.
+
+The Colorado estimate depends on how the top of the earnings distribution is handled: it falls to between 4.3 and 5.5 cents under three alternative earnings cuts, and a placebo test that treats each of 49 other states as the treated state ranks Colorado first, second or third in every case. Some inputs are provisional; the refresh README lists them.
